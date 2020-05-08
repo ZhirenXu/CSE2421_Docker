@@ -1,2 +1,3 @@
 Shared Link for production level of docker image:
-https://osu.box.com/s/22qx7fzyoaznykl1x9lj82shbpccezfv
+https://osu.box.com/s/vy5mtlcp43gc3gft928iekbmjapzus06
+Or use "docker push zhirenxu/ubuntu_stdlinux:stable_v1.1"
