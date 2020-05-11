@@ -8,7 +8,7 @@ Build a standard container that fits the need to CSE2421 in Ohio State Universit
 ## How-to
    There is a detailed instruction on how to set up everything from scratch. Open Docker_stdlinux_setup.pdf and follow its instruction.  
     
-   You can also use "docker push zhirenxu/ubuntu_stdlinux:tagname" in docker to pull image directly from docker hub.  
+   You can also use "docker pull zhirenxu/ubuntu_stdlinux:tagname" in docker to pull image directly from docker hub.  
    
    There is a free book available for OSU student. "Beginning DevOps with Docker", OSU library has free online access of it.
 
