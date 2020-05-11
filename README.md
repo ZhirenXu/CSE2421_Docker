@@ -13,4 +13,5 @@ Build a standard container that fits the need to CSE2421 in Ohio State Universit
    There is a free book available for OSU student. "Beginning DevOps with Docker", OSU library has free online access of it.
 
 ## Demo
-    
+![lab4 demo](https://github.com/ZhirenXu/CSE2421_Docker/blob/master/docker-test.png)
+![test demo](https://github.com/ZhirenXu/CSE2421_Docker/blob/master/docker_lab4_demo.png)
